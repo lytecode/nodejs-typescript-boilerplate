@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "NodeJS typescript boilerplate using best practices",
+  "main": "index.js",
+  "author": "Mbonu Basil",
+  "license": "MIT"
+}
